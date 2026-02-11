@@ -1,0 +1,2 @@
+# Requires: circular-recursion
+# (Not available on PyPI)
